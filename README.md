@@ -11,7 +11,7 @@
 
 - See my portfolio at [https://numankhalil.netlify.app/](https://numankhalil.netlify.app/)
 
-- 💬 I ca help you on **React, Next, MERN, WordPress and web solutions**
+- 💬 I can help you on **React, Next, MERN, WordPress and web solutions**
 
 - 📫 Reach me at **numankhalil27@gmail.com**
 
