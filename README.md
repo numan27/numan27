@@ -1,4 +1,4 @@
-<img src="https://img.freepik.com/free-vector/hand-drawn-flat-design-devops-illustration_23-2149387396.jpg?t=st=1728043417~exp=1728047017~hmac=b6845062a7cf0608693fec37fb3c11e96a8db328321064acd38680a32453f5b0&w=740" alt="banner"/>
+<img src="https://img.freepik.com/free-vector/hand-drawn-flat-design-devops-illustration_23-2149387396.jpg?t=st=1728043417~exp=1728047017~hmac=b6845062a7cf0608693fec37fb3c11e96a8db328321064acd38680a32453f5b0&w=1200" alt="banner"/>
 
 <h1 align="center">Hi 👋, I'm Numan 😊</h1>
 <h3 align="center">A web developer and frontend expert from Pakistan.</h3>
