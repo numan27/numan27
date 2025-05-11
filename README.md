@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- See my portfolio at [https://numankhalil.netlify.app/](https://numankhalil.netlify.app/)
+- See my portfolio at [https://devartventures.com/](https://devartventures.com/)
 
 - 💬 I can help you on **React, Next, MERN, WordPress and web solutions**
 
