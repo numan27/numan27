@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- See my portfolio at [https://devartventures.com/](https://devartventures.com/)
+- See my portfolio at [https://devartventures.com/](https://numan-dev.vercel.app/)
 
-- 💬 I can help you on **React, Next, MERN, WordPress and web solutions**
+- 💬 I can help you with **React, Next, MERN, WordPress, and web solutions**
 
 - 📫 Reach me at **numankhalil27@gmail.com**
 
