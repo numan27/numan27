@@ -1,28 +1,39 @@
-<img src="https://img.freepik.com/free-vector/hand-drawn-flat-design-devops-illustration_23-2149387396.jpg?t=st=1728043417~exp=1728047017~hmac=b6845062a7cf0608693fec37fb3c11e96a8db328321064acd38680a32453f5b0&w=1200" alt="banner"/>
+# Numan Khalil
 
-<h1 align="center">Hi 👋, I'm Numan 😊</h1>
-<h3 align="center">A web developer and frontend expert from Pakistan.</h3>
+**Full-stack engineer for AI-powered SaaS and startup MVPs.**
+Lahore, Pakistan (UTC+5) · Open to freelance projects and full-time roles
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=numan27&label=Profile%20views&color=0e75b6&style=flat" alt="numan27" /> </p>
+I build full-stack products and AI integrations with React, Next.js, TypeScript and Node.js. I use AI-assisted development to ship faster, and I keep the architecture, code review and testing in my own hands. I lead frontend architecture at Coding Pixel and run [DevArt Ventures](https://devartventures.com), my web engineering studio.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=numan27" alt="numan27" /></a> </p>
+**[Portfolio](https://numan-dev.vercel.app)** · [LinkedIn](https://www.linkedin.com/in/numankhalil27/) · [Upwork](https://www.upwork.com/freelancers/numan27) · [Email](mailto:numankhalil27@gmail.com) · [Résumé](https://numan-dev.vercel.app/resume)
 
-- 🌱 I’m currently learning **React Native**
+## Recent work
 
-- See my portfolio at [https://numan-dev.vercel.app/](https://numan-dev.vercel.app/)
+Most of my client work lives in private repositories. Each project below has a full case study on my portfolio.
 
-- 💬 I can help you with **React, Next, MERN, WordPress, and web solutions**
+| Project | What it is | Built with |
+| --- | --- | --- |
+| [Murboo](https://numan-dev.vercel.app/murboo) | An events-industry marketplace where planners compare and review venues, suppliers and contractors. I architected it end to end: web app, API and admin panel. | Next.js, TypeScript, Node.js, PostgreSQL, Redis, AWS S3 |
+| [InvoNexus](https://numan-dev.vercel.app/invonexus) | A platform for Pakistan's tech ecosystem, with bootcamps, workshops, mentor booking, events and a talent pool. | Next.js, NestJS, React, TypeScript, Vercel |
+| [Auditely](https://numan-dev.vercel.app/auditely) | My website audit tool. It finds local businesses, scores their sites for speed, SEO and AI search (GEO and AEO), and uses an LLM to write the report and outreach email. | Next.js, TypeScript, Groq LLM, PageSpeed Insights, Google Places |
+| [TeleSesh](https://numan-dev.vercel.app/telesesh) | A HealthTech platform for therapists, schools and families, with real-time session visibility and role-based dashboards. Runs at 99.9% uptime on AWS. | Next.js, React, Tailwind CSS, AWS |
+| [ISO Powersports](https://numan-dev.vercel.app/iso-powersports) | A multi-vendor parts marketplace with fitment search over 30,000+ SKUs, Stripe split payouts and admin analytics. | Next.js, TypeScript, Stripe, Algolia, Socket.io |
+| [DevArt Ventures](https://numan-dev.vercel.app/devart-ventures) | My studio's own site, built to the SEO, GEO and AEO standards it sells. | Next.js, TypeScript, Vercel |
 
-- 📫 Reach me at **numankhalil27@gmail.com**
+## What I can help with
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/numankhalil27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="numankhalil27" height="30" width="40" /></a>
-</p>
+- **SaaS platforms:** multi-role dashboards, subscription billing and real-time features, from architecture to production.
+- **Startup MVPs:** a web app, admin panel and API live in 5–7 weeks, QA included.
+- **AI integrations:** LLM features such as generated reports, drafting, summaries and smarter search, with structured output and guardrails that keep the model to your data.
+- **Performance, technical SEO and AI search:** Core Web Vitals, structured data, GEO and AEO.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## Stack
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=numan27&show_icons=true&locale=en&layout=compact" alt="numan27" /></p>
+- **Frontend:** React, Next.js, TypeScript, Redux Toolkit, Tailwind CSS, shadcn/ui, Framer Motion, GSAP
+- **Backend and data:** Node.js, NestJS, REST APIs, Socket.io, PostgreSQL, MongoDB, Supabase
+- **AI:** LLM APIs (Groq), structured output and guardrails, AI-assisted development with Claude Code
+- **Cloud and integrations:** Vercel, AWS, Docker, Stripe, Algolia, Firebase
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=numan27&show_icons=true&locale=en" alt="numan27" /></p>
+## Work with me
+
+I'm open to freelance projects and full-time roles, remote or with relocation. The quickest way to reach me is [email](mailto:numankhalil27@gmail.com) or the [contact form](https://numan-dev.vercel.app/#contact) on my portfolio.
